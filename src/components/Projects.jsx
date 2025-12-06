@@ -30,7 +30,7 @@ const personalProjects = [
     techHighlights: [
       'Optimized for weak devices',
       'API rate-limit safe structure',
-      'Lightweight PHP backend'
+      
     ]
   },
   {
