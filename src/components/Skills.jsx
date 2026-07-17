@@ -3,17 +3,17 @@ import React from 'react'
 const technicalStack = [
   {
     category: 'Development Architecture',
-    skills: ['React.js', 'Next.js', 'PHP', 'Node.js', 'C++', 'JavaScript (ES6+)'],
+    skills: ['React.js', 'Next.js', 'TypeScript', 'Node.js', 'PHP', 'JavaScript (ES6+)'],
     color: '#2563EB'
   },
   {
     category: 'Data & Systems',
-    skills: ['Firebase/Firestore', 'MongoDB', 'Python (ML)', 'Predictive Analytics', 'Linear Regression'],
+    skills: ['PostgreSQL', 'Prisma ORM', 'Supabase', 'MongoDB', 'Redis', 'Firebase/Firestore'],
     color: '#DC2626'
   },
   {
     category: 'Tools & Infrastructure',
-    skills: ['Git/GitHub', 'TailwindCSS', 'YouTube API', 'Web3 Concepts', 'System Auditing'],
+    skills: ['WebAuthn', 'Twilio / Nodemailer', 'Tailwind CSS', 'Git/GitHub', 'KaTeX', 'System Auditing'],
     color: '#000000'
   }
 ]
